@@ -53,5 +53,3 @@ export class MybuggychaincodeController extends ConvectorController {
     return existingModel;
   }
 }
-
-X
